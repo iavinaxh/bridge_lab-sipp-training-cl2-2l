@@ -3,7 +3,7 @@ public class Static {
     int a = 10;
     public static void main(String[] args) {
          Static obj = new Static();
-         a = obj.a; 
+          int a = obj.a; 
        System.out.println(a);
        System.out.println(b); 
         
