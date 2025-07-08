@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+import Day4.Book;
+
 public class Book {
     static String libraryName = "City Central Library";
 
